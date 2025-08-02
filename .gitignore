@@ -1,0 +1,25 @@
+# === Node.js ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# === Environment Files ===
+.env
+.env.local
+.env.*.local
+
+# === Logs ===
+logs/
+*.log
+*.tsbuildinfo
+
+# === React (Vite or CRA) ===
+dist/
+build/
+.cache/
+.vite/
+out/
+
+
